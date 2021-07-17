@@ -140,7 +140,7 @@ if (formState === "signUp") {
         name="email"
         onChange={onChange}
       /> <br/> <br/>
-      <button style={{marginLeft: "90px"}} onClick={signUp}>Sign Up</button>
+      <button style={{marginLeft: "90px"}} onClick={signUp}>sign up</button>
       
     </div>
   )
