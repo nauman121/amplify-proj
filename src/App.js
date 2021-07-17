@@ -160,7 +160,7 @@ if (formState === "confirmSignUp") {
         name="verificationCode"
         onChange={onChange}
       />
-      <button onClick={confirmSignUp}>Confirm Sign Up</button>
+      <button onClick={confirmSignUp}>Confirm Signn up</button>
     </div>
   )
 }
